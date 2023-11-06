@@ -1,7 +1,6 @@
-import Vue from 'vue'
+import { createApp } from 'vue'
 import Calculator from './Calculator.vue'
+// import './index.css'
 
-new Vue({
-  el: '#calculator',
-  render: h => h(Calculator)
-})
+createApp(Calculator).mount('#calculator')    
+

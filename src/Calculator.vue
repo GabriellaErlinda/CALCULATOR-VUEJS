@@ -61,11 +61,8 @@ header , .calculator {
   -moz-border-radius: 1rem;
   -ms-border-radius: 1rem;
   -o-border-radius: 1rem;
-  border-radius: 1rem;: 
+  border-radius: 1rem;
   -webkit-box-shadow: 1rem 1rem 0.5rem #ccc;
   box-shadow: 1rem 1rem 0.5rem #ccc;
-  
 }
-
-
 </style>

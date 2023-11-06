@@ -127,8 +127,8 @@
    -moz-border-radius: 0.4rem;
    -ms-border-radius: 0.4rem;
    -o-border-radius: 0.4rem;
-   border-radius: 0.4rem;: 
-   -webkit-box-shadow: 1rem 1rem 0.5rem #b55858;
+   border-radius: 0.4rem;
+   /* -webkit-box-shadow: 1rem 1rem 0.5rem #b55858; */
  }
  
  .calculator .calculator-border .calculator-formula{
@@ -187,7 +187,7 @@
    -moz-border-radius: 0.5rem;
    -ms-border-radius: 0.5rem;
    -o-border-radius: 0.5rem;
-   border-radius: 0.5rem;: 
+   border-radius: 0.5rem;
    -webkit-box-shadow: 0.1rem 0.1rem 0.3rem rgb(85, 65, 65);
    box-shadow: 0.1rem 0.1rem 0.3rem rgb(85, 65, 65);
    transition: all 0.1s;
